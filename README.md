@@ -17,8 +17,8 @@ A simple Python application that converts Tamil text into speech using gTTS. It 
 - Internet connection (gTTS requires internet access)
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/abub787813-pixel/Text-to-speech/tree/main
+cd Text-to-speech
 2. Install dependencies
 pip install gTTS playsound3
 Tkinter is usually included with standard Python installations.
